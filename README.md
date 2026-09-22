@@ -45,9 +45,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name:RAGASUDHA R
+### Name:SANTHOSH V
 
-### Register Number:212224230215
+### Register Number:212224230251
 
 ```
 import pandas as pd
